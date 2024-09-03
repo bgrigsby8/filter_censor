@@ -40,7 +40,7 @@ This Python script censors specific words in the audio of a video file by replac
 Run the script by passing the path to the input video file:
 
 ```bash
-python script_name.py input_video.mp4
+python filter_censor.py input_video.mp4
 ```
 
 The output will be a new video file with `_edited` append to the original file name.
